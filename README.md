@@ -1,4 +1,8 @@
-# githubTest
-Making Changes
-But I'm not sure where to save....
-hmmm...
+
+# ReadMe
+
+#This is an index page  
+for my INFOTC midterms project in the Spring of 2022.  
+
+#### Feel free to check these pages out!
+
