@@ -9,5 +9,6 @@ I try to not eat any candy... *except* chocolate!
 She just turned 7!
 She loves to warm up by the heater in the winter!
 
+### I also love to play [games](Games.md)!  
 
 Back to [readme](README.md)
