@@ -8,5 +8,5 @@ I choose this name when I was still in highschool because I **love** [otters](ht
 
 
 Click here to learn more [about me](AboutMe.md)!  
-Click here to see an example of [code](cylindervolumecalc.md) I wrote for class! 
+Click here to see an example of [code](cylindervolumecalc.md) I wrote for class!   
 Back to [ReadMe](README.md)
