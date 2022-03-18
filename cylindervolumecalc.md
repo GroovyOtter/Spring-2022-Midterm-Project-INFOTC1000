@@ -2,7 +2,7 @@
 
 
 
-``import math
+```import math
 
 def input_error_from_user(prompt):
     while (True):
@@ -35,7 +35,7 @@ def main():
         else:
             break
 main()
-``
+```
             
 
 
